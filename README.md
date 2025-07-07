@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  ALX Listing App – Milestone 1: Scaffolding and Initial Setup
 
 > **Milestone Duration**: June 30, 2025 – July 7, 2025  
@@ -277,4 +277,3 @@ alx-listing-app/
 ├── tsconfig.json            # TypeScript configuration
 ├── .eslintrc.json           # ESLint rules
 └── README.md                # Project documentation
->>>>>>> 863e9b6 (Commit local changes before pull)
