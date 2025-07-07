@@ -2,7 +2,7 @@
 
 > **Milestone Duration**: June 30, 2025 – July 7, 2025  
 > **Level**: Novice | **Weight**: 1  
-> **QA Review**: 0.0/8 (Mandatory)  
+> **QA Review**:  (Mandatory)  
 > **Repository**: [alx-listing-app](https://github.com/owuorviny109/alx-listing-app)
 
 ---
@@ -79,9 +79,6 @@ module.exports = {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-```
-
-All other content should be removed.
 
 ---
 
