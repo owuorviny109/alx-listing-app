@@ -1,4 +1,4 @@
-ALX Listing App
+ ALX Listing App
 Milestone 1: Scaffolding and Initial Setup for Listing Page
 Level: Novice
 Weight: 1
@@ -9,50 +9,36 @@ The ALX Listing App project scaffolds the foundational structure for a modern Ai
 
 🎯 Learning Objectives
 Scaffold a Next.js project suitable for production.
-
 Enforce type safety with TypeScript and reusable interfaces.
-
 Configure TailwindCSS for responsive, accessible UI development.
-
 Apply best practices in project structure and component reuse.
-
 Manage static assets effectively for real-world applications.
 
 ✅ Prerequisites
 Proficiency with Next.js, React, and TypeScript
-
 Familiarity with TailwindCSS
-
 Understanding of ESLint for code quality
-
 Knowledge of scalable folder structuring and modular development
 
 🛠️ Technical Requirements
 Next.js version 13+
-
 Node.js version 16+
-
 VS Code or equivalent editor with TypeScript and TailwindCSS extensions
 
 🔧 Setup Instructions
 1. Scaffold the Project
 Use the following CLI to generate the project:
 
-bash
-Copy
-Edit
 npx create-next-app@latest alx-listing-app \
   --typescript \
   --tailwind \
   --eslint \
   --no-app-router \
   --no-src-dir
+
 2. Configure TailwindCSS
 In tailwind.config.js:
 
-js
-Copy
-Edit
 module.exports = {
   content: [
     './pages/**/*.{ts,tsx}',
@@ -63,18 +49,15 @@ module.exports = {
   },
   plugins: [],
 }
+
 In styles/globals.css:
 
-css
-Copy
-Edit
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 📁 Folder Structure
-text
-Copy
-Edit
+
 alx-listing-app/
 ├── components/
 │   └── common/
@@ -93,9 +76,9 @@ alx-listing-app/
 │   └── globals.css
 ├── tailwind.config.js
 └── README.md
+
 🔁 Reusable Components
 components/common/Card.tsx: Generic listing card
-
 components/common/Button.tsx: Themed button for interaction
 
 🧩 TypeScript Interfaces
@@ -106,63 +89,41 @@ constants/index.ts: Placeholder for configuration values, API URLs, and text con
 
 🖼️ Assets
 Images, icons, and SVGs reside in public/assets/
-
 Assets follow a flat or nested structure based on usage context
 
 📘 How to Run the Project
 Step-by-step:
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/owuorviny109/alx-listing-app.git
 cd alx-listing-app
+
 Install dependencies:
 
-bash
-Copy
-Edit
 npm install
+
 Run development server:
 
-bash
-Copy
-Edit
 npm run dev
+
 Access app at:
-
-arduino
-Copy
-Edit
 http://localhost:3000
+
 ✅ Verification Checklist
- Project compiles without error
-
- Tailwind styles are applied correctly
-
- Card and Button components render without issue
-
- Folders follow required structure
-
- Static assets load properly
+- Project compiles without error
+- Tailwind styles are applied correctly
+- Card and Button components render without issue
+- Folders follow required structure
+- Static assets load properly
 
 🔗 GitHub Repository
 URL: https://github.com/owuorviny109/alx-listing-app
 
 Tracked Files:
-
-pages/index.tsx
-
-components/common/Card.tsx
-
-components/common/Button.tsx
-
-interfaces/index.ts
-
-constants/index.ts
-
-public/assets/
-
-README.md
-
+- pages/index.tsx
+- components/common/Card.tsx
+- components/common/Button.tsx
+- interfaces/index.ts
+- constants/index.ts
+- public/assets/
+- README.md
