@@ -36,7 +36,6 @@ alx-listing-app/
 ├── pages/
 │   └── index.tsx            # Entry page
 ├── styles/
-<<<<<<< HEAD
 │   └── globals.css          # Global styles with Tailwind directives
 ├── tailwind.config.js       # TailwindCSS configuration
 ├── tsconfig.json            # TypeScript configuration
