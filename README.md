@@ -3,7 +3,7 @@
 > **Milestone Duration**: June 30, 2025 – July 7, 2025  
 > **Level**: Novice | **Weight**: 1  
 > **QA Review**:  (Mandatory)  
-> **Repository**: [alx-listing-app](https://github.com/owuorviny109/alx-listing-app)
+> **Repository**: [alx-listing-app](https://github.com/owuorviny109/alx-listing-app.git)
 
 ---
 
