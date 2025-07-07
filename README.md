@@ -159,7 +159,7 @@ export const DEFAULT_IMAGE = "/assets/placeholder.jpg";
 
 ##  Asset Management
 
-Assets such as images and icons should be placed under:
+Assets such as images and icons are placed under:
 
 ```
 public/assets/
@@ -174,7 +174,7 @@ public/assets/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/alx-listing-app.git
+git clone https://github.com/owuorviny109/alx-listing-app.git
 cd alx-listing-app
 ```
 
