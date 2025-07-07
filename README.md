@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+ 
 # ALX Listing App
 =======
 
 #  ALX Listing App – Milestone 1: Scaffolding and Initial Setup
->>>>>>> 401a8de1e93546aee97edaa6ae51da06d0b906b2
+ 2
 
 ## Overview
 
@@ -182,4 +182,4 @@ http://localhost:3000
 
 ---
  
->>>>>>> 401a8de1e93546aee97edaa6ae51da06d0b906b2
+
