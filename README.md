@@ -1,21 +1,21 @@
-# 🏠 ALX Listing App – Milestone 1: Scaffolding and Initial Setup
+#  ALX Listing App – Milestone 1: Scaffolding and Initial Setup
 
 > **Milestone Duration**: June 30, 2025 – July 7, 2025  
 > **Level**: Novice | **Weight**: 1  
 > **QA Review**: 0.0/8 (Mandatory)  
-> **Repository**: [alx-listing-app](https://github.com/your-username/alx-listing-app)
+> **Repository**: [alx-listing-app](https://github.com/owuorviny109/alx-listing-app)
 
 ---
 
-## 📘 Project Overview
+##  Project Overview
 
 The **ALX Listing App** is a foundational project aimed at scaffolding a modern, scalable, and production-ready clone of an Airbnb-style property listing platform. This milestone focuses on establishing the project's initial codebase using **Next.js**, **TypeScript**, **TailwindCSS**, and **ESLint**. The goal is to build a modular and maintainable front-end architecture that supports responsive UI development, strong type safety, and component reuse.
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
-By completing this milestone, learners will:
+By completing this milestone, learnt:
 
 - Scaffold a Next.js application tailored for production deployment.
 - Implement **TypeScript** to ensure type safety and code consistency.
@@ -26,7 +26,7 @@ By completing this milestone, learners will:
 
 ---
 
-## ✅ Prerequisites
+##  Prerequisites
 
 | Requirement                          | Description                                                 |
 |--------------------------------------|-------------------------------------------------------------|
@@ -37,7 +37,7 @@ By completing this milestone, learners will:
 
 ---
 
-## 🧱 Project Initialization
+##  Project Initialization
 
 ### 1. Scaffold the Application
 
@@ -85,7 +85,7 @@ All other content should be removed.
 
 ---
 
-## 🗂️ Folder and File Structure
+##  Folder and File Structure
 
 ```plaintext
 alx-listing-app/
@@ -109,7 +109,7 @@ alx-listing-app/
 
 ---
 
-## 📦 Component Breakdown
+##  Component Breakdown
 
 | Component           | Description                                                 |
 |---------------------|-------------------------------------------------------------|
@@ -120,7 +120,7 @@ All props are strongly typed using interfaces defined in `interfaces/index.ts`.
 
 ---
 
-## 🧩 TypeScript Interfaces
+##  TypeScript Interfaces
 
 Centralized in:
 
@@ -147,7 +147,7 @@ export interface ButtonProps {
 
 ---
 
-## 📁 Constants
+##  Constants
 
 The `constants/index.ts` file contains reusable constants for configuration, API routes, UI strings, or static values.
 
@@ -160,7 +160,7 @@ export const DEFAULT_IMAGE = "/assets/placeholder.jpg";
 
 ---
 
-## 🖼️ Asset Management
+##  Asset Management
 
 Assets such as images and icons should be placed under:
 
@@ -172,7 +172,7 @@ public/assets/
 
 ---
 
-## 🚀 Local Development Guide
+##  Local Development Guide
 
 1. **Clone the repository:**
 
@@ -203,7 +203,7 @@ http://localhost:3000
 
 ---
 
-## ✅ Milestone Completion Checklist
+##  Milestone Completion Checklist
 
 | Task                                             | Status     |
 |--------------------------------------------------|------------|
@@ -217,7 +217,7 @@ http://localhost:3000
 
 ---
 
-## 🧾 Tracked Deliverables
+##  Tracked Deliverables
 
 - `pages/index.tsx`
 - `components/common/Card.tsx`
@@ -229,7 +229,7 @@ http://localhost:3000
 
 ---
 
-## 📌 Author
+##  Author
 
 > **Name**: Vincent Omondi Owuor  
 > **Cohort**: ALX SE 2025  
