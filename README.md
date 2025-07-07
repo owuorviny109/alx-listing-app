@@ -1,9 +1,6 @@
- 
-# ALX Listing App
-=======
+
 
 #  ALX Listing App – Milestone 1: Scaffolding and Initial Setup
- 2
 
 ## Overview
 
